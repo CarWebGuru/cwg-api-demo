@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CWG Api Demo</string>
+    <string name="tts_group_title">TTS Text To Speach</string>
+    <string name="say_date" >Say Date</string>
+    <string name="say_time">Say Time</string>
+    <string name="say_random">Say Random text</string>
+    <string name="header_media">Media</string>
+    <string name="media_play_pause">Play - Pause</string>
+    <string name="media_next">Next</string>
+    <string name="media_volume_inc">Volume Inc</string>
+    <string name="media_volume_dec">Volume Dec</string>
+    <string name="media_service">Disable media service</string>
+    <string name="group_general">General commands</string>
+    <string name="sleep_on">Sleep On</string>
+    <string name="sleep_off">Sleep Off</string>
+    <string name="general_show_toast">Show toast message</string>
+</resources>
