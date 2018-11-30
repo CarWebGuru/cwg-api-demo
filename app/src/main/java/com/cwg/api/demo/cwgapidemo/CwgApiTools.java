@@ -29,10 +29,10 @@ public class CwgApiTools {
 
     public static void sendApiInTTSSay(Context ctx, String text) {
         Log.d(TAG, "sendApiInTTSSay text: " + text);
-            Intent intent = new Intent();
-            intent.setAction(CarwebguruAPI.Actions.API_IN_TTS);
-            intent.putExtra(CarwebguruAPI.Data.STRING, text);
-            ctx.sendBroadcast(intent);
+        Intent intent = new Intent();
+        intent.setAction(CarwebguruAPI.Actions.API_IN_TTS);
+        intent.putExtra(CarwebguruAPI.Data.STRING, text);
+        ctx.sendBroadcast(intent);
     }
 
 

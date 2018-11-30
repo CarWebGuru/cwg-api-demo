@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
 
             case R.id.btnSay3:
-                CwgApiTools.sendApiInTTSSay(getApplicationContext(), "{Red|Green|Orange|Blue|Yellow|Black|White}");
+                CwgApiTools.sendApiInTTSSay(getApplicationContext(), getString(R.string.tts_random_sample));
                 break;
         }
 
@@ -76,8 +76,6 @@ public class MainActivity extends AppCompatActivity {
                 break;
         }
     }
-
-
 
 
     public void mess(String txt) {

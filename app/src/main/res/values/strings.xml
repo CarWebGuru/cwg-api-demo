@@ -14,4 +14,6 @@
     <string name="sleep_on">Sleep On</string>
     <string name="sleep_off">Sleep Off</string>
     <string name="general_show_toast">Show toast message</string>
+    <string name="tts_random_sample">{Red|Green|Orange|Blue|Yellow|Black|White}</string>
+    <string name="description">CarWebGuru Launcher has built-in commands for managing from the external programs.</string>
 </resources>
