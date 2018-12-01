@@ -9,7 +9,7 @@
     <string name="media_play_pause">Плей - Пауза</string>
     <string name="media_next">Следующий</string>
     <string name="media_volume_inc">Увеличить громкость</string>
-    <string name="media_volume_dec">Уменьшить громкостьы</string>
+    <string name="media_volume_dec">Уменьшить громкость</string>
     <string name="media_service">Отключить медиа сервис</string>
     <string name="group_general">Основные команды</string>
     <string name="sleep_on">Включить режим сна</string>
